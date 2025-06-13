@@ -1,17 +1,9 @@
 ---
-name: TODO 템플릿
-about: to_do_list
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: Daily TODO List
 about: 매일매일 해야 할 일(TODO)을 정리하는 템플릿입니다.
 title: "[TODO] "
 labels: ["todo", "daily"]
+assignees: ''
 ---
 
 ## 🗒️ 오늘의 할 일  
